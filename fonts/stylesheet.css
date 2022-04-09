@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Bunken Tech Sans Pro';
+    src: url('BunkenTechSansPro-Bold.eot');
+    src: local('Bunken Tech Sans Pro Bold'), local('BunkenTechSansPro-Bold'),
+        url('BunkenTechSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-Bold.woff2') format('woff2'),
+        url('BunkenTechSansPro-Bold.woff') format('woff'),
+        url('BunkenTechSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Book';
+    src: url('BunkenTechSansPro-Book.eot');
+    src: local('Bunken Tech Sans Pro Book'), local('BunkenTechSansPro-Book'),
+        url('BunkenTechSansPro-Book.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-Book.woff2') format('woff2'),
+        url('BunkenTechSansPro-Book.woff') format('woff'),
+        url('BunkenTechSansPro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro';
+    src: url('BunkenTechSansPro-BoldIt.eot');
+    src: local('Bunken Tech Sans Pro Bold Italic'), local('BunkenTechSansPro-BoldIt'),
+        url('BunkenTechSansPro-BoldIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-BoldIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-BoldIt.woff') format('woff'),
+        url('BunkenTechSansPro-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro SeBd';
+    src: url('BunkenTechSansPro-SeBdIt.eot');
+    src: local('Bunken Tech Sans Pro SeBd Italic'), local('BunkenTechSansPro-SeBdIt'),
+        url('BunkenTechSansPro-SeBdIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-SeBdIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-SeBdIt.woff') format('woff'),
+        url('BunkenTechSansPro-SeBdIt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Book';
+    src: url('BunkenTechSansPro-BookIt.eot');
+    src: local('Bunken Tech Sans Pro Book Italic'), local('BunkenTechSansPro-BookIt'),
+        url('BunkenTechSansPro-BookIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-BookIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-BookIt.woff') format('woff'),
+        url('BunkenTechSansPro-BookIt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro ExBd';
+    src: url('BunkenTechSansPro-ExBdIt.eot');
+    src: local('Bunken Tech Sans Pro ExBd Italic'), local('BunkenTechSansPro-ExBdIt'),
+        url('BunkenTechSansPro-ExBdIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-ExBdIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-ExBdIt.woff') format('woff'),
+        url('BunkenTechSansPro-ExBdIt.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Med';
+    src: url('BunkenTechSansPro-Med.eot');
+    src: local('Bunken Tech Sans Pro Med'), local('BunkenTechSansPro-Med'),
+        url('BunkenTechSansPro-Med.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-Med.woff2') format('woff2'),
+        url('BunkenTechSansPro-Med.woff') format('woff'),
+        url('BunkenTechSansPro-Med.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Ligh';
+    src: url('BunkenTechSansPro-LightIt.eot');
+    src: local('Bunken Tech Sans Pro Light Italic'), local('BunkenTechSansPro-LightIt'),
+        url('BunkenTechSansPro-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-LightIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-LightIt.woff') format('woff'),
+        url('BunkenTechSansPro-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro ExBd';
+    src: url('BunkenTechSansPro-ExBd.eot');
+    src: local('Bunken Tech Sans Pro ExBd'), local('BunkenTechSansPro-ExBd'),
+        url('BunkenTechSansPro-ExBd.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-ExBd.woff2') format('woff2'),
+        url('BunkenTechSansPro-ExBd.woff') format('woff'),
+        url('BunkenTechSansPro-ExBd.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro SeBd';
+    src: url('BunkenTechSansPro-SeBd.eot');
+    src: local('Bunken Tech Sans Pro SeBd'), local('BunkenTechSansPro-SeBd'),
+        url('BunkenTechSansPro-SeBd.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-SeBd.woff2') format('woff2'),
+        url('BunkenTechSansPro-SeBd.woff') format('woff'),
+        url('BunkenTechSansPro-SeBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Med';
+    src: url('BunkenTechSansPro-MedIt.eot');
+    src: local('Bunken Tech Sans Pro Med Italic'), local('BunkenTechSansPro-MedIt'),
+        url('BunkenTechSansPro-MedIt.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-MedIt.woff2') format('woff2'),
+        url('BunkenTechSansPro-MedIt.woff') format('woff'),
+        url('BunkenTechSansPro-MedIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bunken Tech Sans Pro Ligh';
+    src: url('BunkenTechSansPro-Light.eot');
+    src: local('Bunken Tech Sans Pro Light'), local('BunkenTechSansPro-Light'),
+        url('BunkenTechSansPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('BunkenTechSansPro-Light.woff2') format('woff2'),
+        url('BunkenTechSansPro-Light.woff') format('woff'),
+        url('BunkenTechSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
