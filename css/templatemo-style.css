@@ -708,8 +708,6 @@ button.swal2-styled.swal2-confirm {
   margin-top: 30px;
 }
 
-element.style {
-}
 img {
     vertical-align: middle;
 }
@@ -820,14 +818,14 @@ img {
   border-bottom: 10px solid #45489a;
 }
 
-#blog .tabs li {
+/* #blog .tabs li {
   display: inline-block;
   text-align: center;
   width: 25%;
   float: left;
   margin: 0;
   padding: 0;
-}
+} */
 
 #blog .tabs a {
   display: block;
